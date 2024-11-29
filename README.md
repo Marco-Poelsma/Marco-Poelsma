@@ -11,6 +11,7 @@
 - MySQL
 - HTML5
 - CSS
+- Python
 
 
 
