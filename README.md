@@ -1,20 +1,43 @@
-# Welcome to my profile!
+# 👋 Welcome to my profile!
 
-## Marco Poelsma
+## 👨‍💻 Marco Poelsma
 
-### I am a Dutch-Spanish IT student based in Spain.
+Dutch-Spanish IT student based in Spain.
 
-### My languages:
+---
 
-- Java
-- C++
-- MySQL
-- HTML5
-- CSS
-- Python
+### 🚀 About Me
 
+- 🎓 IT student passionate about software development and cybersecurity.
+- 🌍 Multilingual: Dutch, Spanish, English.
+- 💡 Always eager to learn new technologies and contribute to open source.
 
+---
 
+### 🛠️ Technologies & Tools
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/ZAP-000000?style=for-the-badge&logo=OWASP&logoColor=white)
+[![MessiScript](https://img.shields.io/badge/MessiScript-000?style=for-the-badge)](https://github.com/Erawaa/MessiScriptInterpreter)
+
+---
+
+### 📈 GitHub Stats
+
+![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marco-Poelsma&show_icons=true&theme=radical)
+
+---
+
+### 📫 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- [Email](mailto:your.email@example.com)
 
 <!---
 Marco-Poelsma/Marco-Poelsma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
