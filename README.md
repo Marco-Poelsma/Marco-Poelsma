@@ -30,7 +30,7 @@ Dutch-Spanish IT student based in Spain.
 
 ### 📈 GitHub Stats
 
-![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marco-Poelsma&show_icons=true&theme=radical)
+[![Marco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marco-Poelsma&show_icons=true&theme=radical)](https://github.com/Marco-Poelsma/github-readme-stats)
 
 ---
 
