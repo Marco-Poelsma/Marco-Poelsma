@@ -8,8 +8,8 @@ Dutch-Spanish IT student based in Spain.
 
 ### 🚀 About Me
 
-- 🎓 IT student passionate about software development and cybersecurity.
-- 🌍 Multilingual: Dutch, Spanish, English.
+- 🎓 IT student passionate about software development, machine learning, and cybersecurity.
+- 🌍 Multilingual: Dutch, Spanish, English, Catalan.
 - 💡 Always eager to learn new technologies and contribute to open source.
 
 ---
@@ -37,7 +37,7 @@ Dutch-Spanish IT student based in Spain.
 ### 📫 Contact Me
 
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
-- [Email](mailto:your.email@example.com)
+- [Email](mailto:marcopoelsma@gmail.com)
 
 <!---
 Marco-Poelsma/Marco-Poelsma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
