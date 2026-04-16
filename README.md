@@ -25,6 +25,7 @@ Dutch-Spanish IT student based in Spain.
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/ZAP-000000?style=for-the-badge&logo=OWASP&logoColor=white)
 [![MessiScript](https://img.shields.io/badge/MessiScript-000?style=for-the-badge)](https://github.com/Erawaa/MessiScriptInterpreter)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ---
 
