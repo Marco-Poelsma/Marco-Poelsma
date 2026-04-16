@@ -47,7 +47,7 @@ Dutch-Spanish IT student based in Spain.
 
 ### 📫 Contact Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)  
+- [LinkedIn](https://www.linkedin.com/in/marco-poelsma)  
 - [Email](mailto:marcopoelsma@gmail.com)
 
 <!---
